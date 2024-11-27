@@ -2,7 +2,7 @@
 
 Sou estudante de Informática para Internet, aprimorando minhas habilidades em desenvolvimento web, programação (Python e PHP), design de interfaces e gerenciamento de conteúdo, com experiência em CMS como o WordPress.
 
-<!--
+
 **Tatianemun/Tatianemun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
