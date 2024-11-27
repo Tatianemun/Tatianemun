@@ -1,6 +1,6 @@
 ## Olá, eu sou a Tatiane Muniz 👋
 
-Sou estudante de Informática para Internet, um curso que tem aprimorado minhas habilidades em desenvolvimento web e tecnologias digitais. Durante meus estudos, adquiri conhecimentos em desenvolvimento web (HTML, CSS, JavaScript), programação (Python e PHP para back-end), design de interfaces (com foco em design responsivo e usabilidade) e gerenciamento de conteúdo, tendo experiência com CMS como o WordPress.  
+Sou estudante de Informática para Internet, aprimorando minhas habilidades em desenvolvimento web, programação (Python e PHP), design de interfaces e gerenciamento de conteúdo, com experiência em CMS como o WordPress.
 
 <!--
 **Tatianemun/Tatianemun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
