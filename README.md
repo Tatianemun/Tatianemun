@@ -12,7 +12,8 @@ Sou estudante de Informática para Internet, aprimorando minhas habilidades em d
 
 💬 Ask me about ...
 
-📫 How to reach me: ...
+📫 Contato
+- Email: tatianemuniz0812 @ gmail.com
 
 😄 Pronouns: ...
 
